@@ -2,8 +2,11 @@
 This project is about fire, yes fire. It was simple! 
 
 # Main Links!
-This is the code im using! [FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) )
+This is the code im using!
+ [FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) )
+
 And this is the explanation!(Half of the code)
+
 [Explanation](https://github.com/Skokoo/Firere/blob/main/Code%20explanation)
 
 Code Output!
