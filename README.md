@@ -25,7 +25,7 @@ _Copy the Repo_, make sure the terminal/C++ compiler supports **ASNI**.(And also
 License = This project using the MIT license.
 
 # ☄️ Testing Result Info
-My "Info" eat my phone, so i cant put any info here, try again in 2077! Ok uh, this is what happend to my phone.
+My "Info" eat my phone.
 
 • Freezing again.
 (NOTE = This code was made for fun, dont try this at nokia phone)
