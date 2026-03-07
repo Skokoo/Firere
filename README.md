@@ -3,7 +3,7 @@ This project is about fire, yes fire. It was simple!
 
 # Main Links!
 This is the code im using!
- [FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) )
+ [FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) 
 
 And this is the explanation!(Half of the code)
 
