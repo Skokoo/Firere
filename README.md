@@ -5,7 +5,9 @@ Using The C++ language! I made this just for fun!
 
 > # About me:
 > 😀 Status = Save my phone first pls-
+
 > 🧠 Experience = Try again in 2077!
+
 > 🤔 Status = Try again in 2027!
   
 # 🔗 Main Links!
