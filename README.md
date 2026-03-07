@@ -43,8 +43,8 @@ My "Info" eat my phone, so i cant put any info here, try again in 2077! Ok uh, t
 
 # 🤓 How?(Explanation2)
 
-• Hint : 0-30, based how hot the "heat" is, it will be picking the small "char", on the other hand, it would be picking big "char".
-"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"
+• Hint : **0-30**, based how hot the _"heat"_ is, **it would be picking the small "char"**, on the other hand, **it would be picking big "char"**.
+_"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"_
 
 
 
