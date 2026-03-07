@@ -2,13 +2,6 @@
 This project is about **fire**, yes **fire**. It was a _simple_ simulation! Created by me, this project was fully developed using **_mobile_**. This is my first project!
 
 Using The _C++ language!_ I made this just for **fun**!  
-
-> # 🤔 About me..?
-> 😀 Status = Save my phone first pls-
->
-> 🧠 Experience = Try again in 2077!
->
-> 🤔 Status = Try again in 2077!
   
 # 🔗 Main Links!
 This is the _**code**_ im using! oh yeah, Im using _Obfuscated code._
@@ -35,6 +28,13 @@ My "Info" eat my phone, so i cant put any info here, try again in 2077!
 
 >if you find this **cool**, feel free to leave a ⭐️!
 >**_(optional)_**
+
+> # 🤔 About me..?
+> 😀 Status = Save my phone first pls-
+>
+> 🧠 Experience = Try again in 2077!
+>
+> 🤔 Status = Try again in 2077!
 
 
 
