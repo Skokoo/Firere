@@ -23,7 +23,7 @@ Copy the Repo, make sure the terminal/compiler supports ASNI.
 
 License = This project using the MIT license.
 
-if you find this cool, feel free to leave a ⭐️!(Why me say this)
-
+if you find this cool, feel free to leave a ⭐️!
+(optional)
 
 
