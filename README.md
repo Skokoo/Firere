@@ -33,7 +33,10 @@ License = This project using the MIT license.
 # ☄️ Info
 My "Info" eat my phone, so i cant put any info here, try again in 2077!
 
->if you find this **cool**, feel free to >leave a ⭐️!
+>if you find this **cool**, feel free to
+
+>leave a ⭐️!
+
 >**_(optional)_**
 
 
