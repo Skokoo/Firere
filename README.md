@@ -1,7 +1,7 @@
 # 🔥 Fire simulation
 This project is about fire, yes fire. It was a simple simulation! Created by me, this project was fully developed using mobile. This is my first project!
 
-Using The C++ language! I made this just for fun! if you find this cool, feel free to leave a ⭐️!
+Using The C++ language! I made this just for fun! 
 
 # 🔗 Main Links!
 This is the code im using! Im using Obfuscated code!
@@ -23,7 +23,7 @@ Copy the Repo, make sure the terminal/compiler supports ASNI.
 
 License = This project using the MIT license.
 
-
+if you find this cool, feel free to leave a ⭐️!(Why me say this)
 
 
 
