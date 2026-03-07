@@ -13,7 +13,12 @@ This is the explanation of the code:
 5.Loop #3(Gradi) = Colors, not using color gradient for efficiency, and it would make my device crash.
 
 Code Output!
-![Output](Outputer.gif)
+<p align="center">
+  <img src="Outputer.gif" width="80%">
+  <br>
+  <b>Output</b>
+</p>
+
 
 
 
