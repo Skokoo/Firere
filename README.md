@@ -14,7 +14,7 @@ Using The _C++ language!_ I made this just for **fun**!
 This is the _**code**_ im using! oh yeah, Im using _Obfuscated code._
  [FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) 
 
-And this is the _explanation!_(*Half* of the code)
+And this is the _explanation!_(**Half** of the code)
 
 [Explanation](https://github.com/Skokoo/Firere/blob/main/Code%20explanation)
 
