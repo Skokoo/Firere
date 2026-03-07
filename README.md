@@ -3,7 +3,7 @@
 This project is about fire, yes fire simulator.( To see the code, click this [FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) )
 This is the explanation of the code:
 
-@@1.Librarys = used for arrays(Vector used for flexibility), and some other library(like Iostream(Cin,cout))@@
+1.Librarys = used for arrays(Vector used for flexibility), and some other library(like Iostream(Cin,cout))
 
 2.Macros = it is "Efficient"if used corrrectly, but it make the code obfuscated beacuse i like it!
 
