@@ -4,7 +4,9 @@ This project is about fire, yes fire. It was a simple simulation! Created by me,
 Using The C++ language! I made this just for fun! 
 
 > # About me:
-  🧠 Status = Save my phone first.
+> 😀 Status = Save my phone first pls-
+> 🧠 Experience = Try again in 2077!
+> 🤔 Status = Try again in 2027!
   
 # 🔗 Main Links!
 This is the code im using! oh yeah, Im using Obfuscated code.
