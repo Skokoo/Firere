@@ -4,7 +4,7 @@ This project is about **fire**, yes **fire**. It was a _simple_ simulation! Crea
 Using The _C++ language!_ I made this just for **fun**!  
   
 # 🔗 Main Links!
-This is the _**code**_ im using! oh yeah, Im using _Obfuscated code._
+This is the _**code**_ im using! i like using _Obfuscated code._
  [FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) 
 
 And this is the _explanation!_(**Half** of the code)
@@ -21,7 +21,7 @@ If you want more explantion(Full), go to the bottom.
 </p>
 
 # 🏃 How To run it!
-_Copy the Repo_, make sure the terminal/C++ compiler supports **ASNI**.(And also big screen(optional)).
+_Copy the Repo_, make sure the terminal/C++ compiler supports **ANSI**.(And also big screen(optional)).
 
 License = This project use the MIT license.
 
