@@ -1,5 +1,6 @@
 # 🔥 Fire simulation
-This project is about fire, yes fire. It was simple! 
+This project is about fire, yes fire. It was simple! Created by @Skokoo, this project was fully developed using mobile.
+Using The C++ language!
 
 # Main Links!
 This is the code im using!
@@ -17,7 +18,7 @@ And this is the explanation!(Half of the code)
 </p>
 
 # 🏃 How To run it!
-Copy the Repo.
+Copy the Repo, make sure the terminal/compiler supports ASNI.
 License = This project using the MIT license.
 
 
