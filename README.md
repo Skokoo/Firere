@@ -30,6 +30,8 @@ _Copy the Repo_, make sure the terminal/compiler supports **ASNI**.
 
 License = This project using the MIT license.
 
+# ☄️ Info
+
 if you find this **cool**, feel free to leave a ⭐️!
 **_(optional)_**
 
