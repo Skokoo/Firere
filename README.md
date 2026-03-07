@@ -8,7 +8,7 @@ This is the explanation of the code:
 
 3.Loop #1(Randoma) = "summoning machine", it make the "char summoned", and,it have a fuel to!
 
-4.Loop #2(UP1, UP2) = Make the fire goes up, include more things linke direction, heat pixels.
+4.Loop #2(UP1, UP2) = Make the fire goes up, include more things like direction, heat pixels.
 
 5.Loop #3(Gradi) = Colors, not using color gradient for efficiency, and it would make my device crash.
 
