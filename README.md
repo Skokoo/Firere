@@ -3,6 +3,9 @@ This project is about fire, yes fire. It was a simple simulation! Created by me,
 
 Using The C++ language! I made this just for fun! 
 
+> # About me:
+  🧠 Status = Save my phone first.
+  
 # 🔗 Main Links!
 This is the code im using! oh yeah, Im using Obfuscated code.
  [FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) 
