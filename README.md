@@ -23,11 +23,11 @@ _Copy the Repo_, make sure the terminal/C++ compiler supports **ASNI**.(And also
 
 License = This project using the MIT license.
 
-# ☄️ Testing Result Info(what happend to my phone)(NOT IMPORTANT)
-My "Info" eat my phone, so i cant put any info here, try again in 2077! Ok uh.
+# ☄️ Testing Result Info
+My "Info" eat my phone, so i cant put any info here, try again in 2077! Ok uh, this is what happend to my phone.
 
-• The terminal cant support any smooth gradient colors, it make my phone freezing(like i say before). And the nestes loops, i can say it make my phone go crazy. If you want me to test this on pc, my pc broke.
-
+• Freezing again.
+(NOTE = This code was made for fun, dont try this at nokia phone)
 
 >if you find this **cool**, feel free to leave a ⭐️!
 >**_(optional)_**
@@ -38,6 +38,12 @@ My "Info" eat my phone, so i cant put any info here, try again in 2077! Ok uh.
 > 🧠 Experience = Try again in 2077!
 >
 > 🤔 Status = Try again in 2077!
+
+# 🤓 How it is work #2
+• Hint : 0-30, if it was not that "heat" again, it will be picking the small char, on the other hand, it would be picking big char.
+(gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';)
+
+
 
 
 
