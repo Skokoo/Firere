@@ -32,7 +32,7 @@ My "Info" eat my phone, so i cant put any info here, try again in 2077! Ok uh, t
 >if you find this **cool**, feel free to leave a ⭐️!
 >**_(optional)_**
 
-> # 🤔 About me..?
+> ** 🤔 About me..?**
 >  Status = Save my phone first pls-
 >
 >  Experience = Try again in 2077!
