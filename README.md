@@ -10,8 +10,7 @@ This is the _**code**_ im using! oh yeah, Im using _Obfuscated code._
 And this is the _explanation!_(**Half** of the code)
 
 [Explanation](https://github.com/Skokoo/Firere/blob/main/Code%20explanation)
-
-And this is the [Explanation#2(Full)](https://github.com/Skokoo/Firere/blob/main/README.md#-howexplanation2)
+If you want the more explantion(Full). Go to the bottom.
 
 # 📷 Code Output!
 <p align="center">
@@ -35,6 +34,7 @@ My "Info" eat my phone, so i cant put any info here, try again in 2077! Ok uh, t
 >**_(optional)_**
 
 > ** 🤔 About me..?**
+>
 >  Status = Save my phone first pls-
 >
 >  Experience = Try again in 2077!
