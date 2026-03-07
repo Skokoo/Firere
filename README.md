@@ -3,7 +3,7 @@ This project is about fire, yes fire. It was a simple simulation! Created by me,
 
 Using The C++ language! I made this just for fun! 
 
-> # About me:
+> # 🤔 About me..?
 > 😀 Status = Save my phone first pls-
 
 > 🧠 Experience = Try again in 2077!
