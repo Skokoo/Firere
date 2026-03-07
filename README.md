@@ -33,13 +33,13 @@ My "Info" eat my phone, so i cant put any info here, try again in 2077! Ok uh, t
 >**_(optional)_**
 
 > # 🤔 About me..?
-> 😀 Status = Save my phone first pls-
+>  Status = Save my phone first pls-
 >
-> 🧠 Experience = Try again in 2077!
+>  Experience = Try again in 2077!
 >
-> 🤔 Status = Try again in 2077!
+>  Where? i forgot = Try again in 2077!
 
-# 🤓 How it is work #2(Bonus)
+# 🤓 How it is work #2
 
 • Hint : 0-30, based how hot the "heat" is, it will be picking the small "char", on the other hand, it would be picking big "char".
 "gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"
