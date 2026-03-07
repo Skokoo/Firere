@@ -1,5 +1,5 @@
 # 🔥 Fire simulation
-This project is about fire, yes fire. It was a simple simulation! Created by Skokoo, this project was fully developed using mobile. This is my first project!
+This project is about fire, yes fire. It was a simple simulation! Created by me, this project was fully developed using mobile. This is my first project!
 
 Using The C++ language! I made this just for fun! if you find this cool, feel free to leave a ⭐️!
 
