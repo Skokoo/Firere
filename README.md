@@ -26,11 +26,11 @@ And this is the _explanation!_(**Half** of the code)
 </p>
 
 # 🏃 How To run it!
-Copy the Repo, make sure the terminal/compiler supports ASNI.
+_Copy the Repo_, make sure the terminal/compiler supports **ASNI**.
 
 License = This project using the MIT license.
 
-if you find this cool, feel free to leave a ⭐️!
-(optional)
+if you find this **cool**, feel free to leave a ⭐️!
+**_(optional)_**
 
 
