@@ -22,7 +22,7 @@ If you want more explantion(Full). Go to the bottom.
 # 🏃 How To run it!
 _Copy the Repo_, make sure the terminal/C++ compiler supports **ASNI**.(And also big screen(optional)).
 
-License = This project using the MIT license.
+License = This project use the MIT license.
 
 # ☄️ Testing Result Info
 My "Info" eat my phone.
