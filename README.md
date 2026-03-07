@@ -10,7 +10,8 @@ This is the _**code**_ im using! oh yeah, Im using _Obfuscated code._
 And this is the _explanation!_(**Half** of the code)
 
 [Explanation](https://github.com/Skokoo/Firere/blob/main/Code%20explanation)
-If you want more explantion(Full). Go to the bottom.
+
+If you want more explantion(Full), go to the bottom.
 
 # 📷 Code Output!
 <p align="center">
