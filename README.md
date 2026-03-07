@@ -2,18 +2,18 @@
 This is the detailed code explanation! 
 
 1.That 7 _librarys_, used for arrays, or another syntax.
-_
+
 2.That so many _Macros_, it used to obfuscating the code, but, i like it!
-_
+
 3.Sturct Position {, it is contain important things! like _Height(GUGI)_, and _width(WAWI)_.
-_
+
 4.int RANDOMA = 0; 
         while(RANDOMA < WAWI) {
             if ( RANDOMA > WAWI/3 && RANDOMA < 2*WAWI/3)  fire[(GUGI - 1)* WAWI + RANDOMA] = 15 + rand() % 15; 
             else fire[(GUGI - 1) * WAWI + RANDOMA] = 0;  
             RANDOMA++; 
 //This loop is a summoning machine! and a fuel.
-_
+
 5.for(int UP1 = 0; UP1 < GUGI-1; UP1++) { 
         for(int UP2 = 0; UP2 < WAWI; UP2++) {
                 int DIRECTION = Wind;  
@@ -22,7 +22,7 @@ _
                 int LASTED = spell; 
                 fire[DEST] = over;
 //And... This loop make the fire goes up!(Contain direction, and pixels)
-_
+
 6.string gugu = "\033[H";
         int GRADI = 0;
         while(GRADI < GUGI) {
