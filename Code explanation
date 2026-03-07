@@ -3,6 +3,13 @@
 2.Loop #1(Randoma) = "summoning machine", it make the "char summoned", and,it have a fuel to!
 
 3.Loop #2(UP1, UP2) = Make the fire goes up, include more things like direction, heat pixels.
-like _int DERICTION, int HEATP, int DEST, int LASTED_
+like int DERICTION, int HEATP, int DEST, int LASTED
 
-4.Loop #3(Gradi) = Colors, not using color gradient for efficiency, and it would make my device crash.
+4.Loop #3(Gradi) = Colors(Blue), not using "smooth" color gradient for efficiency, and it would make my device crash.
+
+It was a obfuscated code, beacuse i like obsfucating code! 
+
+
+
+
+
