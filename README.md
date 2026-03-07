@@ -1,8 +1,7 @@
-# Fire simulation
-This project is about fire, yes fire.( To see the code, click this [FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) )
+# 🔥 Fire simulation
+This project is about fire, yes fire. It was simple! 
 
-Using the language C++.
-
+# Main Links! [FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) )
 [A Bit Of Explanation](https://github.com/Skokoo/Firere/blob/main/Code%20explanation)
 
 Code Output!
