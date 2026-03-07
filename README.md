@@ -1,5 +1,4 @@
-```diff
-!# Fire simulation!
+# Fire simulation
 This project is about fire, yes fire simulator.( To see the code, click this [FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) )
 This is the explanation of the code:
 
