@@ -11,6 +11,8 @@ And this is the _explanation!_(**Half** of the code)
 
 [Explanation](https://github.com/Skokoo/Firere/blob/main/Code%20explanation)
 
+And this is the [Explanation#2(Full)](https://github.com/Skokoo/Firere/blob/main/README.md#-howexplanation2)
+
 # 📷 Code Output!
 <p align="center">
   <img src="Outputer.gif" width="80%">
