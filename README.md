@@ -39,9 +39,11 @@ My "Info" eat my phone, so i cant put any info here, try again in 2077! Ok uh, t
 >
 > 🤔 Status = Try again in 2077!
 
-# 🤓 How it is work #2
-• Hint : 0-30, if it was not that "heat" again, it will be picking the small char, on the other hand, it would be picking big char.
-(gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';)
+# 🤓 How it is work #2(Bonus)
+
+• Hint : 0-30, based how hot the "heat" is, it will be picking the small "char", on the other hand, it would be picking big "char".
+"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"
+
 
 
 
