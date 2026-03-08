@@ -50,9 +50,13 @@ My "Info" eat my phone.
 **Fast Explanation**
 --------------------
 **Heyo! go call more Stars!**
+
 Ok sir, here we go, a Bright Stars.
+
 **Charge!!!**
+
 **why is their light dimmed when they got there? Gone to?**
+
 _**CALL MORE STARS.**_
 
 ---------------------------------------------
