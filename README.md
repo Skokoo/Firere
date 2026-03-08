@@ -7,18 +7,18 @@ Using The _C++ language!_ I made this just for **fun**!
 
 # 🔗 Main Links!
 This is the _**code**_ im using! me like using "some" _Obfuscated code._
+
 • [FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) 
 
 And this is the _explanation!_(**Half** of the code)
 
 • [Explanation](https://github.com/Skokoo/Firere/blob/main/Code%20explanation)
 
-If you want more explantion(Full),and fast explanation go to the bottom.
+If you want more explantion(Full),please go to the bottom.
 Optional Link(incase you wanna fast!)
 
-• [Explanation2](https://github.com/Skokoo/Firere/blob/main/README.md#-howexplanation2)
-
 • [Fast Explanation](https://github.com/Skokoo/Firere#-fast-explanationoptional)
+
 # 📷 Cᴏᴅᴇ Oᴜᴛᴘᴜᴛ!
 <p align="center">
   <img src="Outputer.gif" width="80%">
