@@ -1,8 +1,8 @@
 **MAIN INFO**
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🚀+This+is+Main+Info!;100%+important+i+guess.&color=87CEEB&font=Ubuntu+Mono)](https://git.io/typing-svg)
 # 🔥 Fɪʀᴇ "Sɪᴍᴜʟᴀᴛion"
-Hello <p align="left">
-  <img src="giphy.gif" width="30%">
+ <p align="left">
+  <img src="giphy.gif" width="20%">
   <br>
   <b>Hello<b>
 </p>
