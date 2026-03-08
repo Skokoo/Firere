@@ -67,7 +67,7 @@ My "Info" eat my phone.
 
 **🌀 Fast Explanation(Optional)**
 --------------------
-Written In Kiddo Language
+Always optional.
 
 
 **Bobby eat burritos. Bobby still hungry, Bobby summon more buritos!**
