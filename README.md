@@ -35,8 +35,8 @@ For a short explanation, please [click](https://github.com/Skokoo/Firere/blob/ma
 
 .
 
-. [![Typing SVG](https://readme-typing-svg.demolab.com/?lines
-Optional+information+of+the+optional+yes;80%+Optional+beacuse+this+is+optional&font=Ubuntu+mono)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines
+Optional+information+of+the+optional+yes;80%+Optional+beacuse+this+is+optional&font=Ubuntu+Mono)](https://git.io/typing-svg)
 _____________________________________________
 # Is this even a info? 
 
