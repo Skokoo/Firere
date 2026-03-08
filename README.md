@@ -47,17 +47,17 @@ My "Info" eat my phone.
 >if you find this **cool**, feel free to leave a ⭐️!
 >**_(optional)_**
 
-**Fast Explanation**
+**🌀 Fast Explanation(Optional)**
 --------------------
-**Heyo! go call more Stars!**
+**Heyo! go call more Stars! ✨️**
 <pre>while(true) {
         int RANDOMA = 0; 
         while(RANDOMA < WAWI) {
             if ( RANDOMA > WAWI/3 && RANDOMA < 2*WAWI/3)  fire[(GUGI - 1)* WAWI + RANDOMA] = 15 + rand() % 15;</pre>
-Ok sir, here we go, a Bright Stars. But they want to "eat" first.(WHY IS IT 0?)
+Ok sir, here we go, a Bright Stars. But they want to "eat" first.(WHY IS IT 0? 🤨)
 <pre>else fire[(GUGI - 1) * WAWI + RANDOMA] = 0;  
             RANDOMA++; </pre>
-ok..**Charge!!!**
+ok..**Charge!!! 🪄**
 <pre>for(int UP1 = 0; UP1 < GUGI-1; UP1++) { 
         for(int UP2 = 0; UP2 < WAWI; UP2++) {
                 int DIRECTION = Wind;  
@@ -73,7 +73,7 @@ int LASTED = spell;
                 fire[DEST] = over;</pre>
 
 
-_**CALL MORE STARS.**_
+_**CALL MORE STARS. ⚠️☄️**_
 (Repeat, but remember, he want to sleep 50 miliseconds first)
 <pre>#define take_some_rest std::this_thread::sleep_for(std::chrono::milliseconds(50));</pre>   
 ---------------------------------------------
