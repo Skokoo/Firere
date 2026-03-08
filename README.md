@@ -50,7 +50,10 @@ My "Info" eat my phone.
 **Fast Explanation**
 --------------------
 **Heyo! go call more Stars!**
-
+<pre>while(true) {
+        int RANDOMA = 0; 
+        while(RANDOMA < WAWI) {
+            if ( RANDOMA > WAWI/3 && RANDOMA < 2*WAWI/3)  fire[(GUGI - 1)* WAWI + RANDOMA] = 15 + rand() % 15;</pre>
 Ok sir, here we go, a Bright Stars.
 
 **Charge!!!**
