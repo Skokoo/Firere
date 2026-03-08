@@ -70,15 +70,15 @@ My "Info" eat my phone.
 Written In Kiddo Language
 
 
-**Heyo! go call more Stars!**
+**Bobby eat burritos. Bobby still hungry, Bobby summon moee buritos!**
 <pre>while(true) {
         int RANDOMA = 0; 
         while(RANDOMA < WAWI) {
             if ( RANDOMA > WAWI/3 && RANDOMA < 2*WAWI/3)  fire[(GUGI - 1)* WAWI + RANDOMA] = 15 + rand() % 15;</pre>
-Ok sir, here we go, a Bright Stars. But they want to "eat"(fuel) first.(WHY IS IT 0?)
+Bobby "eat"(fuel) burritos.(WHY IS IT 0?)
 <pre>else fire[(GUGI - 1) * WAWI + RANDOMA] = 0;  
             RANDOMA++; </pre>
-ok..**Charge!!!**
+Bobby make burritos ascending!
 <pre>for(int UP1 = 0; UP1 < GUGI-1; UP1++) { 
         for(int UP2 = 0; UP2 < WAWI; UP2++) {
                 int DIRECTION = Wind;  
@@ -87,14 +87,14 @@ ok..**Charge!!!**
                 int LASTED = spell; 
                 fire[DEST] = over; </pre>
 
-**why is their light dimmed when they got there? And they are gone out of nowhere?**
+Burritos slowly get smaller, and than gone forever.
 <pre>_"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"_
 And
 int LASTED = spell; 
                 fire[DEST] = over;</pre>
 
 
-_**CALL MORE STARS. ⚠️☄️**_
+_**Bobby angry, he wanna summon more.**_
 (Repeat, but remember, he want to sleep 50 miliseconds first)
 <pre>#define take_some_rest std::this_thread::sleep_for(std::chrono::milliseconds(50));</pre>   
 ---------------------------------------------
