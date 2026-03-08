@@ -41,7 +41,7 @@ My "Info" eat my phone.
 # 🤓 How?(Explanation2)
 (Why me put here)
 
-• Hint : **0-30**, based how hot the _"heat"_ is, **it would be picking the small "char"**, on the other hand, **it would be picking big "char"**.
+• Number : **0-30**, based how hot the _"heat"_ is, **it would be picking the small "char"**, on the other hand, **it would be picking big "char"**.
 <pre>"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"</pre>
 
 >if you find this **cool**, feel free to leave a ⭐️!
