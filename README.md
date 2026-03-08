@@ -1,4 +1,4 @@
-**MAIN INFO**<img src="https://raw.githubusercontent.com" width="30px">
+**MAIN INFO**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🚀+This+is+Main+Info!;100%+important+i+guess.&color=87CEEB&font=Ubuntu+Mono)](https://git.io/typing-svg)
 # 🔥 Fɪʀᴇ "Sɪᴍᴜʟᴀᴛion"
