@@ -29,13 +29,13 @@ _Copy the Repo_, make sure the terminal/C++ compiler supports **ANSI/ASCII**.(An
 License = This project use the GPL-v3.
 For a short explanation, please [click](https://github.com/Skokoo/Firere/blob/main/License%20Short%20Explanation) this.
 
-|
+.
 
-|
+.
 
-|
+.
 
-|
+.
 _____________________________________________
 # Is this even a info? 
 
@@ -92,11 +92,6 @@ this is my personal opinion(pls dont hate me)
 | **C++:** | dont know | yes |
 | **C:** | dont know | yes |
 | **C#:** | dont know | yes |
-
-Optional Visitor
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Skokoo.Firere)
-
 
 
 
