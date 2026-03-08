@@ -5,14 +5,6 @@ This project is about **fire**, yes **fire**. It was a _simple_ simulation! Crea
 
 Using The _C++ language!_ I made this just for **fun**!  
 
-> 🤔 About me..? 
->
-> 😀 Status = Save my phone first pls-
->
-> 🧠 Experience = Try again in 2077!
->
-> 🤔 Status = Try again in 2077!
-
 # 🔗 Main Links!
 This is the _**code**_ im using! me like using "some" _Obfuscated code._
  [FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) 
