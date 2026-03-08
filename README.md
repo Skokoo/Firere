@@ -29,8 +29,11 @@ _Copy the Repo_, make sure the terminal/C++ compiler supports **ANSI/ASCII**.(An
 License = This project use the GPL-v3.
 For a short explanation, please [click](https://github.com/Skokoo/Firere/blob/main/License%20Short%20Explanation) this.
 
+
+
+
 _____________________________________________
-Is this even a info? 
+# Is this even a info? 
 
 # ☄️ Testing Result Info
 My "Info" eat my phone.
