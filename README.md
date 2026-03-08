@@ -5,7 +5,7 @@ This project is about **fire**, yes **fire**. It was a _simple_ simulation! Crea
 
 Using The _C++ language!_ I made this just for **fun**!  
 
-> 🤔 About me..? <pre>teks</pre>
+> 🤔 About me..? 
 >
 > 😀 Status = Save my phone first pls-
 >
@@ -50,7 +50,7 @@ My "Info" eat my phone.
 (Why me put here)
 
 • Hint : **0-30**, based how hot the _"heat"_ is, **it would be picking the small "char"**, on the other hand, **it would be picking big "char"**.
-_"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"_
+<pre>_"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"_</pre>
 
 >if you find this **cool**, feel free to leave a ⭐️!
 >**_(optional)_**
