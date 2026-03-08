@@ -54,7 +54,7 @@ My "Info" eat my phone.
         int RANDOMA = 0; 
         while(RANDOMA < WAWI) {
             if ( RANDOMA > WAWI/3 && RANDOMA < 2*WAWI/3)  fire[(GUGI - 1)* WAWI + RANDOMA] = 15 + rand() % 15;</pre>
-Ok sir, here we go, a Bright Stars. But they want to eat first.
+Ok sir, here we go, a Bright Stars. But they want to "eat" first.(WHY IS IT 0?)
 <pre>else fire[(GUGI - 1) * WAWI + RANDOMA] = 0;  
             RANDOMA++; </pre>
 ok..**Charge!!!**
@@ -67,7 +67,11 @@ ok..**Charge!!!**
                 fire[DEST] = over; </pre>
 
 **why is their light dimmed when they got there? Gone to?**
-<pre>_"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"_</pre>
+<pre>_"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"_
+And
+int LASTED = spell; 
+                fire[DEST] = over;</pre>
+
 
 _**CALL MORE STARS.**_
 (Repeat, but remember, he want to sleep 50 miliseconds first)
