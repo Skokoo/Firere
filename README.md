@@ -54,10 +54,10 @@ My "Info" eat my phone.
         int RANDOMA = 0; 
         while(RANDOMA < WAWI) {
             if ( RANDOMA > WAWI/3 && RANDOMA < 2*WAWI/3)  fire[(GUGI - 1)* WAWI + RANDOMA] = 15 + rand() % 15;</pre>
-Ok sir, here we go, a Bright Stars. But they want to "eat" first.(WHY IS IT 0? 🤨)
+Ok sir, here we go, a Bright Stars. But they want to "eat"(fuel) first.(WHY IS IT 0? 🤨)
 <pre>else fire[(GUGI - 1) * WAWI + RANDOMA] = 0;  
             RANDOMA++; </pre>
-ok..**Charge!!! 🪄**
+ok..**Charge!!!**
 <pre>for(int UP1 = 0; UP1 < GUGI-1; UP1++) { 
         for(int UP2 = 0; UP2 < WAWI; UP2++) {
                 int DIRECTION = Wind;  
