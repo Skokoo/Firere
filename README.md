@@ -47,6 +47,14 @@ My "Info" eat my phone.
 >if you find this **cool**, feel free to leave a ⭐️!
 >**_(optional)_**
 
+**Fast Explanation**
+--------------------
+**Heyo! go call more Stars!**
+Ok sir, here we go, a Bright Stars.
+**Charge!!!**
+**why is their light dimmed when they got there? Gone to?**
+_**CALL MORE STARS.**_
+
 ---------------------------------------------
 "C" language rank.
 this is my personal opinion(pls dont hate me)
