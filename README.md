@@ -1,3 +1,4 @@
+MAIN INFO
 # _🔥 Fire "simulation"_
 This project is about **fire**, yes **fire**. It was a _simple_ simulation! Created by me, this project was fully developed using **_mobile_**. This is my first project!
 
@@ -35,6 +36,7 @@ _Copy the Repo_, make sure the terminal/C++ compiler supports **ANSI**.(And also
 License = This project use the GPL-v3.
 For a short explanation, please [click](https://github.com/Skokoo/Firere/blob/main/License%20Short%20Explanation) this.
 
+Is this even a info? 
 # ☄️ Testing Result Info
 My "Info" eat my phone.
 
