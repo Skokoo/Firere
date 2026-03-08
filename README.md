@@ -1,6 +1,6 @@
 **MAIN INFO**
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🚀+This+is+Main+Info!;100%+important+i+guess.&color=FFFFFF&font=Ubuntu+Mono)](https://git.io/typing-svg)
-# _🔥 Fire "simulation"_
+# _🔥 𝔽𝕚𝕣𝕖 𝕊𝕚𝕞𝕦𝕝𝕒𝕥𝕠𝕣"_
 This project is about **fire**, yes **fire**. It was a _simple_ simulation! Created by me, this project was fully developed using **_mobile_**. This is my first project!
 
 Using The _C++ language!_ I made this just for **fun**!  
