@@ -13,7 +13,7 @@ And this is the _explanation!_(**Half** of the code)
 
 [Explanation](https://github.com/Skokoo/Firere/blob/main/Code%20explanation)
 
-If you want more explantion(Full), go to the bottom.
+If you want more explantion(Full),and fast explanation go to the bottom.
 
 # 📷 Cᴏᴅᴇ Oᴜᴛᴘᴜᴛ!
 <p align="center">
