@@ -16,7 +16,9 @@ And this is the _explanation!_(**Half** of the code)
 If you want more explantion(Full),and fast explanation go to the bottom.
 Optional Link(incase you wanna fast!)
 
-[Fast Explanation](https://github.com/Skokoo/Firere#-fast-explanationoptional)
+• [Explanation2(wow)(https://github.com/Skokoo/Firere/blob/main/README.md#-howexplanation2)
+
+• [Fast Explanation](https://github.com/Skokoo/Firere#-fast-explanationoptional)
 # 📷 Cᴏᴅᴇ Oᴜᴛᴘᴜᴛ!
 <p align="center">
   <img src="Outputer.gif" width="80%">
