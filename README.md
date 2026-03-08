@@ -23,7 +23,7 @@ And this is the _explanation!_(**Half** of the code)
 
 If you want more explantion(Full), go to the bottom.
 
-# 📷 Ｃｏｄｅ Ｏｕｔｐｕｔ!
+# 📷Ｃｏｄｅ Ｏｕｔｐｕｔ
 <p align="center">
   <img src="Outputer.gif" width="80%">
   <br>
