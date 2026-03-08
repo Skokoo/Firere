@@ -57,7 +57,8 @@ this is my personal opinion(pls dont hate me)
 | **C:** | dont know | yes |
 | **C#:** | dont know | yes |
 
-![Visitor Count](https://profile-counter.glitch.me/Skokoo/count.svg)
+![Visitor Count](https://profile-counter.glitch.me)
+
 
 
 
