@@ -47,6 +47,8 @@ My "Info" eat my phone.
 >if you find this **cool**, feel free to leave a ⭐️!
 >**_(optional)_**
 
+---------------------------------------------
+"C" language rank.
 this is my personal opinion(pls dont hate me)
 
 | Name | Rank | Why |
@@ -54,6 +56,8 @@ this is my personal opinion(pls dont hate me)
 | **C++:** | dont know | yes |
 | **C:** | dont know | yes |
 | **C#:** | dont know | yes |
+
+![Visitor Count](https://profile-counter.glitch.me)
 
 
 
