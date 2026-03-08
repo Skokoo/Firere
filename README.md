@@ -31,7 +31,8 @@ If you want more explantion(Full), go to the bottom.
 # 🏃 How To run it!
 _Copy the Repo_, make sure the terminal/C++ compiler supports **ANSI**.(And also a big screen(optional)).
 
-License = This project use the MIT license.
+# 📃 License
+License = This project use the GPL-v3.
 
 # ☄️ Testing Result Info
 My "Info" eat my phone.
