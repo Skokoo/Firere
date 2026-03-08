@@ -74,7 +74,7 @@ ok..**Charge!!!**
                 int LASTED = spell; 
                 fire[DEST] = over; </pre>
 
-**why is their light dimmed when they got there? And they gone out of nowhere?**
+**why is their light dimmed when they got there? And they are gone out of nowhere?**
 <pre>_"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"_
 And
 int LASTED = spell; 
