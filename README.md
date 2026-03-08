@@ -55,12 +55,6 @@ My "Info" eat my phone.
 >if you find this **cool**, feel free to leave a ⭐️!
 >**_(optional)_**
 
-| Nama Kolom 1 | Nama Kolom 2 |
-| :--- | :--- |
-| **Homepage:** | [grpc.io](https://grpc.io) |
-| **Mailing List:** | [grpc-io@googlegroups.com](mailto:grpc-io@googlegroups.com) |
-
-
 
 
 
