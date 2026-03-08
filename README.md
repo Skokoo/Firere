@@ -9,12 +9,6 @@ Using The _C++ language!_ I made this just for **fun**!
 This is the _**code**_ im using! me like using "some" _Obfuscated code._
  [FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) 
 
-| Nama Kolom 1 | Nama Kolom 2 |
-| :--- | :--- |
-| **Homepage:** | [grpc.io](https://grpc.io) |
-| **Mailing List:** | [grpc-io@googlegroups.com](mailto:grpc-io@googlegroups.com) |
-
-
 And this is the _explanation!_(**Half** of the code)
 
 [Explanation](https://github.com/Skokoo/Firere/blob/main/Code%20explanation)
