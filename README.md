@@ -47,6 +47,14 @@ My "Info" eat my phone.
 >if you find this **cool**, feel free to leave a ⭐️!
 >**_(optional)_**
 
+this is my personal opinion(pls dont hate me)
+
+| Name  Rank | Why |
+| :--- | :--- |
+| **C++:** | dont know | my phone looks like a art.
+| **Mailing List:** | [grpc-io@googlegroups.com](mailto:grpc-io@googlegroups.com) |
+
+
 
 
 
