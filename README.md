@@ -19,6 +19,8 @@ And this is the _explanation!_( of the code )
 • [Fast Explanation](https://github.com/Skokoo/Firere#-fast-explanationoptional)
 
 If you want more explantion(Full),please go to the bottom.
+Optional code:
+•[Discussion Link](https://github.com/Skokoo/Firere/discussions/2)
 
 # 📷 Cᴏᴅᴇ Oᴜᴛᴘᴜᴛ!
 <p align="center">
