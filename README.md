@@ -5,7 +5,7 @@ This project is about **fire**, yes **fire**. It was a _simple_ simulation! Crea
 
 Using The _C++ language!_ I made this just for **fun**!  
 
-> 🤔 About me..? <code>teks</code>
+> 🤔 About me..? <pre>teks</pre>
 >
 > 😀 Status = Save my phone first pls-
 >
