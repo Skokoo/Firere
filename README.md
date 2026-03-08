@@ -5,6 +5,8 @@ This project is about **fire**, yes **fire**. It was a _simple_ simulation! Crea
 
 Using The _C++ language!_ I made this just for **fun**!  
 
+Oh yeah! I'm self-taught, relying solely on learning app(Just a while, and than not again), and Google.
+
 # 🔗 Main Links!
 This is the _**code**_ im using! me like using "some" _Obfuscated code._
 
