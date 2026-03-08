@@ -30,7 +30,7 @@ If you want more explantion(Full), go to the bottom.
 </p>
 
 # 🏃 How To run it!
-_Copy the Repo_, make sure the terminal/C++ compiler supports **ANSI**.(And also a big screen(optional)).
+_Copy the Repo_, make sure the terminal/C++ compiler supports **ANSI/ASCII**.(And also a big screen(optional)).
 
 # 📃 License
 License = This project use the GPL-v3.
