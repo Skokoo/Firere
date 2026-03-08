@@ -10,13 +10,13 @@ Oh yeah! I'm self-taught, relying solely on learning app(Just a while, and than 
 # 🔗 Main Links!
 This is the _**code**_ im using! me like using "some" _Obfuscated code._
 
-• [🔥 FireSim](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) 
+• [🔥 FireCode](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) 
 
 And this is the _explanation!_( of the code )
 
-• [Explanation](https://github.com/Skokoo/Firere/blob/main/Code%20explanation)
+• [🤔 Explanation](https://github.com/Skokoo/Firere/blob/main/Code%20explanation)
 
-• [Fast Explanation](https://github.com/Skokoo/Firere#-fast-explanationoptional)
+• [🚀 Fast Explanation](https://github.com/Skokoo/Firere#-fast-explanationoptional)
 
 If you want more explantion(Full),please go to the bottom.
 Optional code:
