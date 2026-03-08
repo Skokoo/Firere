@@ -28,11 +28,10 @@ _Copy the Repo_, make sure the terminal/C++ compiler supports **ANSI/ASCII**.(An
 # 📃 License
 License = This project use the GPL-v3.
 For a short explanation, please [click](https://github.com/Skokoo/Firere/blob/main/License%20Short%20Explanation) this.
-
-
-
-
-100% more important👍 here!
+|
+|
+|
+|
 _____________________________________________
 # Is this even a info? 
 
