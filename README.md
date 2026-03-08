@@ -54,9 +54,10 @@ My "Info" eat my phone.
         int RANDOMA = 0; 
         while(RANDOMA < WAWI) {
             if ( RANDOMA > WAWI/3 && RANDOMA < 2*WAWI/3)  fire[(GUGI - 1)* WAWI + RANDOMA] = 15 + rand() % 15;</pre>
-Ok sir, here we go, a Bright Stars.
-
-**Charge!!!**
+Ok sir, here we go, a Bright Stars. But they want to eat first.
+<pre>else fire[(GUGI - 1) * WAWI + RANDOMA] = 0;  
+            RANDOMA++; </pre>
+ok..**Charge!!!**
 
 **why is their light dimmed when they got there? Gone to?**
 
