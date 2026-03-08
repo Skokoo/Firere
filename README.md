@@ -58,8 +58,12 @@ this is my personal opinion(pls dont hate me)
 | **C#:** | dont know | yes |
 
 Optional Visitor
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Skokoo.Firere)
 
+Stat
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Skokoo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
