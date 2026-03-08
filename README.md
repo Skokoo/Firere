@@ -14,10 +14,9 @@ And this is the _explanation!_(**Half** of the code)
 
 • [Explanation](https://github.com/Skokoo/Firere/blob/main/Code%20explanation)
 
-If you want more explantion(Full),please go to the bottom.
-Optional Link(incase you wanna fast!)
-
 • [Fast Explanation](https://github.com/Skokoo/Firere#-fast-explanationoptional)
+
+If you want more explantion(Full),please go to the bottom.
 
 # 📷 Cᴏᴅᴇ Oᴜᴛᴘᴜᴛ!
 <p align="center">
