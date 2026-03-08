@@ -39,7 +39,7 @@ For a short explanation, please [click](https://github.com/Skokoo/Firere/blob/ma
 
 _____________________________________________
 Is this even a info? 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+thing+is+optional.;i+guess+this+very+very+optional.&color=FFFFFF&Font=Ubuntu+Mono)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+thing+is+optional.;i+guess+this+very+very+optional.&color=FFFFFF&font=Ubuntu+Mono)](https://git.io/typing-svg)
 
 # ☄️ Testing Result Info
 My "Info" eat my phone.
