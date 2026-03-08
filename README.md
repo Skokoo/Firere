@@ -50,7 +50,7 @@ My "Info" eat my phone.
 (Why me put here)
 
 • Hint : **0-30**, based how hot the _"heat"_ is, **it would be picking the small "char"**, on the other hand, **it would be picking big "char"**.
-<pre>_"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"_</pre>
+<pre>"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"</pre>
 
 >if you find this **cool**, feel free to leave a ⭐️!
 >**_(optional)_**
