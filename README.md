@@ -87,7 +87,7 @@ Bobby make burritos ascending!
                 int LASTED = spell; 
                 fire[DEST] = over; </pre>
 
-Burritos slowly get smaller, and than gone forever.
+Burritos slowly get smaller, and then gone forever.
 <pre>_"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"_
 And
 int LASTED = spell; 
