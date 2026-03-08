@@ -1,5 +1,5 @@
 MAIN INFO
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🚀+This+is+Main+Info!;100%+important+i+guess)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🚀+This+is+Main+Info!;100%+important+i+guess; i+hope+this+good+yeyyyyy)](https://git.io/typing-svg)
 # _🔥 Fire "simulation"_
 This project is about **fire**, yes **fire**. It was a _simple_ simulation! Created by me, this project was fully developed using **_mobile_**. This is my first project!
 
