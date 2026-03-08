@@ -93,6 +93,11 @@ this is my personal opinion(pls dont hate me)
 | **C:** | dont know | yes |
 | **C#:** | dont know | yes |
 
+Info
+• This project is WIP.
+• How to cotributing? Dont know.
+
+
 
 
 
