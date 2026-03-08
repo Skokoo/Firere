@@ -51,8 +51,9 @@ this is my personal opinion(pls dont hate me)
 
 | Name | Rank | Why |
 | :--- | :--- | :---|
-| **C++:** | dont know | my phone looks like a art.
-| **Mailing List:** | [grpc-io@googlegroups.com](mailto:grpc-io@googlegroups.com) |
+| **C++:** | dont know | yes |
+| **C:** | dont know | yes |
+| **C#:** | dont know | yes |
 
 
 
