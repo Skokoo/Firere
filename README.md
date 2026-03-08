@@ -29,7 +29,7 @@ If you want more explantion(Full), go to the bottom.
 </p>
 
 # 🏃 How To run it!
-_Copy the Repo_, make sure the terminal/C++ compiler supports **ANSI**.(And also big screen(optional)).
+_Copy the Repo_, make sure the terminal/C++ compiler supports **ANSI**.(And also a big screen(optional)).
 
 License = This project use the MIT license.
 
