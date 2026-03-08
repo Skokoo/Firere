@@ -66,6 +66,9 @@ My "Info" eat my phone.
 
 **🌀 Fast Explanation(Optional)**
 --------------------
+Written In Kiddo Language
+
+
 **Heyo! go call more Stars!**
 <pre>while(true) {
         int RANDOMA = 0; 
