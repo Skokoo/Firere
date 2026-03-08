@@ -57,10 +57,7 @@ this is my personal opinion(pls dont hate me)
 | **C:** | dont know | yes |
 | **C#:** | dont know | yes |
 
-<img src="https://profile-counter.glitch.me">
-
-
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Skokoo.Firere)
 
 
 
