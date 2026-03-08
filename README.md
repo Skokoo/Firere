@@ -56,7 +56,7 @@ My "Info" eat my phone.
 
 **🌀 Fast Explanation(Optional)**
 --------------------
-**Heyo! go call more Stars! **
+**Heyo! go call more Stars!**
 <pre>while(true) {
         int RANDOMA = 0; 
         while(RANDOMA < WAWI) {
