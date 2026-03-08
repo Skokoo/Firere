@@ -70,7 +70,7 @@ My "Info" eat my phone.
 Written In Kiddo Language
 
 
-**Bobby eat burritos. Bobby still hungry, Bobby summon moee buritos!**
+**Bobby eat burritos. Bobby still hungry, Bobby summon more buritos!**
 <pre>while(true) {
         int RANDOMA = 0; 
         while(RANDOMA < WAWI) {
