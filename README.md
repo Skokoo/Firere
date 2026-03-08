@@ -1,12 +1,12 @@
 **MAIN INFO**
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🚀+This+is+Main+Info!;100%+important+i+guess.&color=00D4FF&font=Ubuntu+Mono)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🚀+This+is+Main+Info!;100%+important+i+guess.&color=00599C&font=Ubuntu+Mono)](https://git.io/typing-svg)
 # 🔥 Fɪʀᴇ "Sɪᴍᴜʟᴀᴛion"
  <p align="left">
   <img src="giphy.gif" width="14%">
   <br>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone!;How+are+you?&color=00599C&font=Ubuntu+Mono)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone!;How+are+you?&color=00D44F&font=Ubuntu+Mono)](https://git.io/typing-svg)
 This project is about **fire**, yes **fire**. It was a _simple_ simulation! Created by [me](https://github.com/Skokoo), this project was fully developed using **_mobile_**. This is my first project!
 
 Using The _C++ language!_ I made this just for **fun**!  
