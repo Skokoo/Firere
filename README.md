@@ -1,10 +1,10 @@
 **MAIN INFO**
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🚀+This+is+Main+Info!;100%+important+i+guess.&color=87CEEB&font=Ubuntu+Mono)](https://git.io/typing-svg)
 # 🔥 Fɪʀᴇ "Sɪᴍᴜʟᴀᴛion"
-Hello <p align="center">
+Hello <p align="right">
   <img src="giphy.gif" width="30%">
   <br>
-  <b>Output</b>
+  <b>Hello<b>
 </p>
 This project is about **fire**, yes **fire**. It was a _simple_ simulation! Created by [me](https://github.com/Skokoo), this project was fully developed using **_mobile_**. This is my first project!
 
