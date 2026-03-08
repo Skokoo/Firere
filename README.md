@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🚀+This+is+Main+Info!;100%+important+i+guess.&color=87CEEB&font=Ubuntu+Mono)](https://git.io/typing-svg)
 # 🔥 Fɪʀᴇ "Sɪᴍᴜʟᴀᴛion"
  <p align="left">
-  <img src="giphy.gif" width="10%"> **Hello everyone!**
+  <img src="giphy.gif" width="10%">  **Hello everyone!**
   <br>
 </p>
 
