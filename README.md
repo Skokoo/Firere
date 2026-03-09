@@ -105,7 +105,7 @@ int LASTED = spell;
                 fire[DEST] = over;</pre>
 
 
-_**Bob angry, he wanna summon more.**_
+_**Bob angry, he want to summon more.**_
 (Repeat, but remember, he want to sleep 50 miliseconds first)
 <pre>#define take_some_rest std::this_thread::sleep_for(std::chrono::milliseconds(50));</pre>   
 ---------------------------------------------
