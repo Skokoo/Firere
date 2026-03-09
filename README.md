@@ -10,9 +10,7 @@
 
 This project is about **fire**, yes **fire**. It was a _simple_ simulation! Created by [me](https://github.com/Skokoo), this project was fully developed using **_mobile_**. This is my first project!
 
-Using The <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
-</div> language! I made this just for **fun**!  
+Using the _C++ language!_ I made this just for **fun**!  
 
 Oh yeah! I'm self-taught, relying solely on learning app(Just a while, and than not again), and, i learned with my [24/7 teacher that never sleep](https://www.google.com). Me no drink coffee while coding btw.
 
@@ -110,7 +108,10 @@ this is my personal opinion(pls dont hate me)
 
 • This project is WIP.
 >if you find this "project" cool, Thanks!
-
+Random logo for nothing
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+</div>
 
 
 
