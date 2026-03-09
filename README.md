@@ -70,7 +70,7 @@ My "Info" eat my phone.
 Always optional.
 
 
-**Bob eat burritos. Bobby still hungry, Bob summon more buritos!**
+**Bob eat burritos.Bob still hungry, Bob summon more buritos!**
 <pre>while(true) {
         int RANDOMA = 0; 
         while(RANDOMA < WAWI) {
