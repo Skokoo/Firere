@@ -107,7 +107,7 @@ for(int UP1 = 0; UP1 < GUGI-1; UP1++) {
 ```
 Burritos slowly get smaller, and then gone forever.
 ```cpp
-<pre>_"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"_
+"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"_
 // And
 int LASTED = spell; 
                 fire[DEST] = over;
