@@ -14,7 +14,7 @@ Using the _C++ language!_ I made this just for **fun**!
 
 Oh yeah! I'm self-taught, relying solely on learning app(Just a while, and than not again), and, i learned with my [24/7 teacher that never sleep](https://www.google.com). Me no drink coffee while coding btw.
 
-_**Looking for a more "professional"( Hope so ) Check out**_  [this](https://github.com/Skokoo/Firere/blob/main/Read%2FVo1)
+_**Looking for a more "professional"( Hope so ) Breakdown? Check out**_  [this](https://github.com/Skokoo/Firere/blob/main/Read%2FVo1)
 
 # 🔗 Main Links!
 This is the _**code**_ im using!(dont mind the macros)
