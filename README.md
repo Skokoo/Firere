@@ -22,10 +22,16 @@ This is the _**code**_ im using!(dont mind the macros)
 • [🔥 FireCode](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) 
 
 And this is the _explanation!_( of the code )
+
+• [🚀 Fast Explanation](https://github.com/Skokoo/Firere#-fast-explanationoptional)
+
+or
+
+• [ Full Explanation](https://github.com/Skokoo/Firere/blob/main/Read%2FVo1)
+
+Explanation that has to be complicated
 
 • [🤔 Explanation](https://github.com/Skokoo/Firere/blob/main/Code%20explanation)
-
-• [🚀 Fast Explanation](https://github.com/Skokoo/Firere#-fast-explanationoptional)
 
 • [🤓Explanation2](https://github.com/Skokoo/Firere#-howexplanation2)
 
