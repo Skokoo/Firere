@@ -17,7 +17,7 @@ Oh yeah! I'm self-taught, relying solely on learning app(Just a while, and than 
 If you dont understand what am i saying(Grammar), please click  [this](https://github.com/Skokoo/Firere/blob/main/Read%2FVo1)
 
 # 🔗 Main Links!
-This is the _**code**_ im using! me like using "some" _Obfuscated code._
+This is the _**code**_ im using!(dont mind the macros)
 
 • [🔥 FireCode](https://github.com/Skokoo/Firere/blob/main/FireSim.cpp) 
 
