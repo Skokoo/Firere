@@ -14,7 +14,7 @@ Note: The informal grammar in the README file is intentional to preserve the pro
 
 
 ————————————————————
-|ABOUT EXPLANATION1|
+[ABOUT EXPLANATION1] >
 ————————————————————
 • Pre-processor Macros
  ——————————————————————
@@ -37,9 +37,9 @@ Heat Transfer: Simulating how "soldiers" (pixels) carry thermal data from the so
 Note: The codebase utilizes optimized macros. They are structured to be highly efficient while remaining human-readable.
 
 
-
-ABOUT EXPLANATION2 
-
+——————————————————––
+[ABOUT EXPLANATION2] >
+————————————————————
 The simulation utilizes a heat scale ranging from 0 to 30. The system dynamically maps character density to heat intensity: lower values render 'thinner' characters to represent cooler embers, while higher values trigger 'thicker' characters for intense flames.
 
 Code:
