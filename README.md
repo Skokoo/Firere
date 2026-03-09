@@ -32,7 +32,7 @@ Optional link:
 
 Credit (Tools):
 
-• [Svg Typing](https://github.com/DenverCoder1/readme-typing-svg)
+• [SVG Typing](https://github.com/DenverCoder1/readme-typing-svg)
 
 • [Giphy "Wave"](https:giphy.com)
 
