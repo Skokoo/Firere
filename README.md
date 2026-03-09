@@ -64,9 +64,6 @@ My "Info" eat my phone.
 • Number : **0-30**, based how hot the _"heat"_ is, **it would be picking the small "char"** if the fire is "cold", on the other hand, **it would be picking big "char".**
 <pre>"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"</pre>
 
->if you find this **cool**, feel free to leave a ⭐️!
->**_(optional)_**
-
 **🌀 Fast Explanation(Optional)**
 --------------------
 Always optional.
@@ -110,6 +107,8 @@ this is my personal opinion(pls dont hate me)
 | **C#:** | dont know | yes |
 
 • This project is WIP.
+>if you find this **cool**, feel free to leave a ⭐️!
+>**_(optional)_**
 
 
 
