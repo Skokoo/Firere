@@ -12,6 +12,8 @@ Tech Stack & Methodology
 
 Note: The informal grammar in the README file is intentional to preserve the project's original fun.(Yesh)
 
+
+
 ABOUT EXPLANATION1
 
 1. Pre-processor Macros
@@ -31,7 +33,10 @@ Heat Transfer: Simulating how "soldiers" (pixels) carry thermal data from the so
 4. Discrete Gradient System (Gradi)
 
 For the visual output, I opted for a Discrete Color Gradient (Blue-themed) rather than a smooth procedural gradient. This was a strategic decision to prevent system overhead and ensure the simulation remains stable on mobile hardware without causing thermal throttling or UI freezing.
+
 Note: The codebase utilizes optimized macros. They are structured to be highly efficient while remaining human-readable.
+
+
 
 ABOUT EXPLANATION2 
 
