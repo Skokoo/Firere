@@ -11,3 +11,8 @@ Tech Stack & Methodology
      • Learning Path: 100% Self-taught.
 
 Note: The informal grammar in the README file is intentional to preserve the project's original fun.(Yesh)
+
+
+ABOUT EXPLANATION2 
+
+The simulation utilizes a heat scale ranging from 0 to 30. The system dynamically maps character density to heat intensity: lower values render 'thinner' characters to represent cooler embers, while higher values trigger 'thicker' characters for intense flames.
