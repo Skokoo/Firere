@@ -30,6 +30,10 @@ Optional link:
 
 • [🗨 Discussion Link](https://github.com/Skokoo/Firere/discussions/2)
 
+Credit (Tools):
+
+• 
+
 # 📷 Cᴏᴅᴇ Oᴜᴛᴘᴜᴛ!
 <p align="center">
   <img src="Outputer.gif" width="80%">
