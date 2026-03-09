@@ -21,17 +21,17 @@ ABOUT EXPLANATION1
 ~ I implemented Macros to maximize execution speed and maintain memory efficiency. While they require "correct" implementation to avoid side effects, they provide the low-level performance needed for real-time mobile rendering.
 
 • "Thermal" Source Initialization (The "Fuel")
- ——————————————————————————————————————————–——
+ ——————————————————————————————————————————–———
 ~ The first loop manages Heat Generation. Using mathematical randomization, it simulates a "fuel" source at the bottom of the buffer. This "fuel" provides the initial energy required for the fire to propagate upward, acting as the foundation of the thermal system.
 
 • Propagation & Displacement Logic (UP1, UP2)
-
+ ——————————————————————————————————————————–––
 ~ The second loop handles Fluid Dynamics. It dictates the upward movement of heat pixels, including:
 Directional Physics: Controlling how the flame sways.
 Heat Transfer: Simulating how "soldiers" (pixels) carry thermal data from the source to the upper atmosphere of the simulation.
 
 • Discrete Gradient System (Gradi)
-
+ ——————————————————————————————————
 ~ For the visual output, I opted for a Discrete Color Gradient (Blue-themed) rather than a smooth procedural gradient. This was a strategic decision to prevent system overhead and ensure the simulation remains stable on mobile hardware without causing thermal throttling or UI freezing.
 
 Note: The codebase utilizes optimized macros. They are structured to be highly efficient while remaining human-readable.
