@@ -26,6 +26,7 @@ And this is the _explanation!_( of the code )
 • [🚀 Fast Explanation](https://github.com/Skokoo/Firere#-fast-explanationoptional)
 
 If you want more explanation(Full),please go to the bottom.
+
 Optional link:
 
 • [🗨 Discussion Link](https://github.com/Skokoo/Firere/discussions/2)
