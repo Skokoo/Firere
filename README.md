@@ -84,32 +84,40 @@ Always optional.
 
 
 **Bob eat burritos.Bob still hungry, Bob summon more buritos!**
-<pre>while(true) {
+```cpp
+while(true) {
         int RANDOMA = 0; 
         while(RANDOMA < WAWI) {
-            if ( RANDOMA > WAWI/3 && RANDOMA < 2*WAWI/3)  fire[(GUGI - 1)* WAWI + RANDOMA] = 15 + rand() % 15;</pre>
+            if ( RANDOMA > WAWI/3 && RANDOMA < 2*WAWI/3)  fire[(GUGI - 1)* WAWI + RANDOMA] = 15 + rand() % 15;
+```
 Bob "eat"(fuel) burritos.(WHY IS IT 0?)
-<pre>else fire[(GUGI - 1) * WAWI + RANDOMA] = 0;  
-            RANDOMA++; </pre>
+```cpp
+else fire[(GUGI - 1) * WAWI + RANDOMA] = 0;  
+            RANDOMA++; 
+```
 Bob make burritos ascending!
-<pre>for(int UP1 = 0; UP1 < GUGI-1; UP1++) { 
+```cpp
+for(int UP1 = 0; UP1 < GUGI-1; UP1++) { 
         for(int UP2 = 0; UP2 < WAWI; UP2++) {
                 int DIRECTION = Wind;  
                 int HEATP = Fire; 
                 int DEST = UP1 * WAWI + ( UP2 + DIRECTION - 1 + WAWI) % WAWI;
                 int LASTED = spell; 
                 fire[DEST] = over; </pre>
-
+```
 Burritos slowly get smaller, and then gone forever.
+```cpp
 <pre>_"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"_
-And
+// And
 int LASTED = spell; 
-                fire[DEST] = over;</pre>
-
+                fire[DEST] = over;
+```
 
 _**Bob angry, he want to summon more.**_
 (Repeat, but remember, he want to sleep 50 miliseconds first)
-<pre>#define take_some_rest std::this_thread::sleep_for(std::chrono::milliseconds(50));</pre>   
+```cpp
+#define take_some_rest std::this_thread::sleep_for(std::chrono::milliseconds(50));
+```
 ---------------------------------------------
 "C" language rank.
 this is my personal opinion(pls dont hate me)
