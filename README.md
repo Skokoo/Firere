@@ -74,6 +74,7 @@ My "Info" eat my phone.
 **🌀 Fast Explanation(Optional)**
 --------------------
 Always optional.
+(Recomended to read the code first(Optional again)).
 
 
 **Bob eat burritos.Bob still hungry, Bob summon more buritos!**
