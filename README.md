@@ -108,7 +108,9 @@ this is my personal opinion(pls dont hate me)
 
 • This project is WIP.
 >if you find this "project" cool, Thanks!
+
 Random logo for nothing
+
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
 </div>
