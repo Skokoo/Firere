@@ -49,7 +49,7 @@ _Copy the Repo_, And run it.
 ( make sure the terminal/C++ compiler supports **ANSI/ASCII**.(And also a big screen(optional)).
 
 # 📃 License
-License = This project use the GPL-v3 license.
+License = This project uses the GPL-v3 license.
 For a short explanation, please [click](https://github.com/Skokoo/Firere/blob/main/License%20Short%20Explanation) this.
 
 .
