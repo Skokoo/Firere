@@ -13,9 +13,9 @@ Tech Stack & Methodology
 Note: The informal grammar in the README file is intentional to preserve the project's original fun.(Yesh)
 
 
-
-ABOUT EXPLANATION1
-
+————————————————————
+|ABOUT EXPLANATION1|
+————————————————————
 • Pre-processor Macros
  ——————————————————————
 ~ I implemented Macros to maximize execution speed and maintain memory efficiency. While they require "correct" implementation to avoid side effects, they provide the low-level performance needed for real-time mobile rendering.
