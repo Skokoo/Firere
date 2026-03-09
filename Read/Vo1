@@ -21,7 +21,7 @@ ABOUT EXPLANATION1
 ~ I implemented Macros to maximize execution speed and maintain memory efficiency. While they require "correct" implementation to avoid side effects, they provide the low-level performance needed for real-time mobile rendering.
 
 • "Thermal" Source Initialization (The "Fuel")
- ——————————————————————————————————————————
+ ——————————————————————————————————————————–——
 ~ The first loop manages Heat Generation. Using mathematical randomization, it simulates a "fuel" source at the bottom of the buffer. This "fuel" provides the initial energy required for the fire to propagate upward, acting as the foundation of the thermal system.
 
 • Propagation & Displacement Logic (UP1, UP2)
