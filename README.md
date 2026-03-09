@@ -65,17 +65,7 @@ For a short explanation, please [click](https://github.com/Skokoo/Firere/blob/ma
 _____________________________________________
 # Is this even an info? 
 
-My "Info" eat my phone.
-
-# 🤓 How?(Explanation2)
-(Why me put here)
-
-WARNING : Broken english ahead!
-
-• Number : **0-30**, based how hot the _"heat"_ is, **it would be picking the small "char"** if the fire is "cold", on the other hand, **it would be picking big "char".**
-```cpp
-gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';
-```
+My "Info" eat my phone.
 
 **🌀 Fast Explanation(Optional)**
 --------------------
@@ -117,6 +107,16 @@ _**Bob angry, he want to summon more.**_
 (Repeat, but remember, he want to sleep 50 miliseconds first)
 ```cpp
 #define take_some_rest std::this_thread::sleep_for(std::chrono::milliseconds(50));
+```
+
+# 🤓 How?(Explanation2)
+(Why me put here)
+
+WARNING : Broken english ahead!
+
+• Number : **0-30**, based how hot the _"heat"_ is, **it would be picking the small "char"** if the fire is "cold", on the other hand, **it would be picking big "char".**
+```cpp
+gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';
 ```
 ---------------------------------------------
 "C" language rank.
