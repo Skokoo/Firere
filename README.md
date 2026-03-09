@@ -136,7 +136,7 @@ this is my personal opinion(pls dont hate me)
 
 • This project is WIP.
 
-• Make sure you understand this project "grammar". Or click [this](https://github.com/Skokoo/Firere/blob/main/Read%2FVo1)
+• Make sure you understand this project "grammar". Or read the "Full Explanation/ "Good" breakdown version.
 >if you find this "project" cool, Thanks!
 
 Random logo for nothing
