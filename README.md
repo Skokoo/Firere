@@ -74,7 +74,7 @@ WARNING : Broken english ahead!
 
 • Number : **0-30**, based how hot the _"heat"_ is, **it would be picking the small "char"** if the fire is "cold", on the other hand, **it would be picking big "char".**
 ```cpp
-"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"
+gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';
 ```
 
 **🌀 Fast Explanation(Optional)**
@@ -107,7 +107,7 @@ for(int UP1 = 0; UP1 < GUGI-1; UP1++) {
 ```
 Burritos slowly get smaller, and then gone forever.
 ```cpp
-"gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';"_
+gugu += (HMM > 0) ? chars[min((int) chars.size()-1, HMM/3)] : ' ';
 // And
 int LASTED = spell; 
                 fire[DEST] = over;
