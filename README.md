@@ -34,7 +34,7 @@ Credit (Tools):
 
 • [SVG Typing](https://github.com/DenverCoder1/readme-typing-svg)
 
-• [Giphy "Wave"](https:giphy.com)
+• [Giphy](https:giphy.com)
 
 # 📷 Cᴏᴅᴇ Oᴜᴛᴘᴜᴛ!
 <p align="center">
