@@ -27,7 +27,7 @@ And this is the _explanation!_( of the code )
 
 • [🚀 Fast Explanation](https://github.com/Skokoo/Firere#-fast-explanationoptional)
 
-If you want more explanation(Full),please go to the bottom.
+• [🤓Explanation2](https://github.com/Skokoo/Firere#-howexplanation2)
 
 Optional link:
 
@@ -125,6 +125,7 @@ Random logo for nothing
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+
 </div>
 
 
