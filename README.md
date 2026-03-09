@@ -107,8 +107,7 @@ this is my personal opinion(pls dont hate me)
 | **C#:** | dont know | yes |
 
 • This project is WIP.
->if you find this **cool**, feel free to leave a ⭐️!
->**_(optional)_**
+>if you find this "project" cool, Thanks!
 
 
 
