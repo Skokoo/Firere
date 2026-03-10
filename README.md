@@ -136,7 +136,7 @@ this is my personal opinion(pls dont hate me)
 
 • This project is WIP.
 
-• Make sure you understand this project "grammar". Or read the "Full Explanation/ "Good" breakdown version.
+• Make sure you understand this project "grammar". 
 >if you find this "project" cool, Thanks!
 
 Random logo for nothing
