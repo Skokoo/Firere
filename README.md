@@ -111,8 +111,7 @@ int LASTED = spell;
 
 _**Bob angry, he want to summon more.**_
 (Repeat, but remember, he want to sleep 50 miliseconds first)
-```cpp
-take_some_rest std::this_thread::sleep_for(std::chrono::milliseconds(50));
+```cpp std::this_thread::sleep_for(std::chrono::milliseconds(50));
 ```
 
 # 🤓 How?(Explanation2)
