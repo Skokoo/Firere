@@ -12,7 +12,7 @@ This project is about **fire**, yes **fire**. It was a _simple_ simulation! Crea
 
 Using the _C++ language!_ I made this just for **fun**!  
 
-Oh yeah! I'm self-taught, relying solely on learning app(Just a while, and than not again), and, i learned with my [24/7 teacher that never sleep](https://www.google.com). Me no drink coffee while coding btw.
+Oh yeah! I'm self-taught, relying solely on learning app(Just a while, and then not again), and, i learned with my [24/7 teacher that never sleep](https://www.google.com). Me no drink coffee while coding btw.
 
 >_**Looking for a more "professional"( Hope so ) Breakdown and full explanation? Check out**_  [this](https://github.com/Skokoo/Firere/blob/main/Read%2FVo1)
 
