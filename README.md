@@ -99,7 +99,7 @@ for(int UP1 = 0; UP1 < GUGI-1; UP1++) {
                 int HEATP = Fire; 
                 int DEST = UP1 * WAWI + ( UP2 + DIRECTION - 1 + WAWI) % WAWI;
                 int LASTED = spell; 
-                fire[DEST] = over; </pre>
+                fire[DEST] = over; 
 ```
 Burritos slowly get smaller, and then gone forever.
 ```cpp
